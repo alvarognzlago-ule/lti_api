@@ -1,0 +1,113 @@
+{
+  "sub_1762431252329_3_2": {
+    "submissionId": "sub_1762431252329_3_2",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "2",
+    "resourceTitle": "Entrega2",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\f46207ce77b33045621990d33c6d6baf",
+    "fileSize": 309782,
+    "comments": "",
+    "uploadedAt": "2025-11-06T12:14:12.329Z",
+    "questionnaire": {
+      "timeSpent": "menos-1h",
+      "difficulty": "facil",
+      "resourcesUsed": [
+        "foros"
+      ],
+      "challenges": "nada",
+      "learnings": "nada",
+      "completedAt": "2025-11-06T12:14:23.769Z"
+    },
+    "isReplacement": false
+  },
+  "sub_1762434852603_3_3": {
+    "submissionId": "sub_1762434852603_3_3",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "3",
+    "resourceTitle": "Entrega 3",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\6ec2d25087de65185de7be8c9d1f5a84",
+    "fileSize": 309782,
+    "comments": "asasd",
+    "uploadedAt": "2025-11-06T13:14:12.603Z",
+    "questionnaire": {
+      "timeSpent": "2-4h",
+      "difficulty": "moderada",
+      "resourcesUsed": [
+        "tutoriales"
+      ],
+      "challenges": "sdvs",
+      "learnings": "dvsd",
+      "completedAt": "2025-11-06T13:14:21.331Z"
+    },
+    "isReplacement": false
+  },
+  "sub_1762435008027_3_4": {
+    "submissionId": "sub_1762435008027_3_4",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "4",
+    "resourceTitle": "4",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\df81adbb693623cfcde6e8177c048b9e",
+    "fileSize": 309782,
+    "comments": "4tt4",
+    "uploadedAt": "2025-11-06T13:16:48.027Z",
+    "questionnaire": {
+      "timeSpent": "1-2h",
+      "difficulty": "facil",
+      "resourcesUsed": [
+        "companeros"
+      ],
+      "challenges": "dsa",
+      "learnings": "dsa",
+      "completedAt": "2025-11-06T13:16:54.838Z"
+    },
+    "isReplacement": false
+  },
+  "sub_1762435919976_3_5": {
+    "submissionId": "sub_1762435919976_3_5",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "5",
+    "resourceTitle": "Actividad 5",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\82eb8fb28745db3806996d5506b0c294",
+    "fileSize": 309782,
+    "comments": "",
+    "uploadedAt": "2025-11-06T13:31:59.976Z",
+    "questionnaire": null,
+    "isReplacement": false
+  },
+  "sub_1762435928554_3_5": {
+    "submissionId": "sub_1762435928554_3_5",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "5",
+    "resourceTitle": "Actividad 5",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\b9b69d40c099dc23dab3369889484c79",
+    "fileSize": 309782,
+    "comments": "",
+    "uploadedAt": "2025-11-06T13:32:08.554Z",
+    "questionnaire": null,
+    "isReplacement": false
+  },
+  "sub_1762436225662_3_6": {
+    "submissionId": "sub_1762436225662_3_6",
+    "userId": "3",
+    "userName": "Álvaro González Lago",
+    "resourceLinkId": "6",
+    "resourceTitle": "Actividad 6",
+    "fileName": "MITM_MQTT.pdf",
+    "filePath": "uploads\\ad522d1f114d3b1b2a741738b31bb669",
+    "fileSize": 309782,
+    "comments": "",
+    "uploadedAt": "2025-11-06T13:37:05.662Z",
+    "questionnaire": null,
+    "isReplacement": false
+  }
+}
