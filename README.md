@@ -1,4 +1,4 @@
-# 📚 Sistema de Entregas LTI 1.3 para Moodle# 📚 Sistema de Entregas LTI 1.3 para Moodle# 🎓 Sistema de Entregas LTI 1.3 con Cuestionario Post-Entrega
+# 🎓 Sistema de Entregas LTI 1.3 con Cuestionario Post-Entrega
 
 
 
@@ -2617,3 +2617,4 @@ Mejoras sugeridas:
 ---
 
 **Creado con ❤️ para facilitar las entregas de tareas en Moodle**
+
